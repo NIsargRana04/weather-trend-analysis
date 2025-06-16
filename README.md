@@ -41,7 +41,7 @@ The full project report with methodology, schema, visuals, and insights is avail
 
 ## 📬 Contact
 Made by **Nisarg Rana** — aspiring data analyst.  
-Let's connect on [LinkedIn](https://linkedin.com).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/nisarg-rana-071398264/).
 
 ---
 ⭐ If you found this project interesting, don't forget to give it a star!
