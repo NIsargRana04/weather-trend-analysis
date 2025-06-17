@@ -1,0 +1,33 @@
+{
+    "name": "Weather Snapshot Theme",
+    "dataColors": [
+        "#FF5733",
+        "#3498DB",
+        "#2ECC71",
+        "#9B59B6",
+        "#F1C40F",
+        "#E67E22",
+        "#1ABC9C",
+        "#E74C3C",
+        "#34495E",
+        "#95A5A6"
+    ],
+    "background": "#F7F9FA",
+    "foreground": "#2C3E50",
+    "tableAccent": "#3498DB",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "fontFamily": {
+                    "value": "Segoe UI"
+                },
+                "color": {
+                    "value": "#2C3E50"
+                },
+                "background": {
+                    "value": "#FFFFFF"
+                }
+            }
+        }
+    }
+}
